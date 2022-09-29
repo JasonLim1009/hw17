@@ -1,3 +1,3 @@
 # hw17
 
-![This is an image]![image](https://user-images.githubusercontent.com/107684179/185780273-750b00ec-4082-4118-bc02-9e52e7efe137.png)
+![Screenshot_2](https://user-images.githubusercontent.com/107684179/192982493-93741299-a36e-4470-8f8c-46c03018ee96.png)
